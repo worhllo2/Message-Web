@@ -6,7 +6,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "message-board-db"
-database_id = "b75aabf3-b0c7-4621-afc3-691587ec5e2e"  #  D1 数据库 ID
+database_id = "7ac4dd55-1c1c-4e10-910b-874e626e88d5"  #  D1 数据库 ID
 
 # Rules for importing HTML file
 [[rules]]
